@@ -1,9 +1,9 @@
 
-# Testy Testin
+# Testy tester
 
 ## Description
 
-This test will test your test and when you test that test will gladly test your tests.
+When you test your tests the thests will provide tests to test.
 
 ## Table of contents
 
@@ -16,23 +16,23 @@ This test will test your test and when you test that test will gladly test your 
 
 ## Installation
 
-To install simply add test to your test then find test in the test and test.
+In order to install the test, simply test the test. 
 
 ## Usage
 
-Users will find that when testig the test they willl easily test tests.
+When users test tests the can put tests in their tests. 
 
 ## License
 
-MIT
+apache 2.0
 
 ## Contributing
 
-To test or not to test?
+To contribute to testing, test your tests.
 
 ## Tests
 
-come on....
+....really?
 
 ## Questions
 
